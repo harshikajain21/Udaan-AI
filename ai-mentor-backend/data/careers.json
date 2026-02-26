@@ -1,0 +1,29 @@
+[
+  {
+    "career": "Software Engineer",
+    "degree": "B.Tech",
+    "math": 0.8,
+    "logic": 0.85,
+    "creativity": 0.6,
+    "communication": 0.6,
+    "stress": 0.6
+  },
+  {
+    "career": "Data Scientist",
+    "degree": "B.Tech",
+    "math": 0.9,
+    "logic": 0.85,
+    "creativity": 0.6,
+    "communication": 0.7,
+    "stress": 0.7
+  },
+  {
+    "career": "Research Scientist",
+    "degree": "B.Sc Physics",
+    "math": 0.85,
+    "logic": 0.8,
+    "creativity": 0.7,
+    "communication": 0.6,
+    "stress": 0.7
+  }
+]

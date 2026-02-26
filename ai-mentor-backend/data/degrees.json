@@ -1,0 +1,23 @@
+[
+  {
+    "degree": "B.Tech",
+    "stream": "PCM",
+    "careers": ["Software Engineer", "Data Scientist"],
+    "difficulty": 0.8,
+    "competition_level": 0.9
+  },
+  {
+    "degree": "B.Sc Physics",
+    "stream": "PCM",
+    "careers": ["Research Scientist"],
+    "difficulty": 0.7,
+    "competition_level": 0.6
+  },
+  {
+    "degree": "MBBS",
+    "stream": "PCB",
+    "careers": ["Doctor"],
+    "difficulty": 0.9,
+    "competition_level": 0.95
+  }
+]

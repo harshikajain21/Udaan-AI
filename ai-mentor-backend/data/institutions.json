@@ -1,0 +1,58 @@
+[
+  {
+    "institution_id": "IITD_BTECH_CSE",
+    "college_name": "IIT Delhi",
+    "type": "Public",
+    "tier": 1,
+    "location": {
+      "state": "Delhi",
+      "city": "New Delhi"
+    },
+    "program": {
+      "degree": "B.Tech",
+      "branch": "Computer Science",
+      "stream": "PCM"
+    },
+    "admission": {
+      "exam": "JEE Advanced",
+      "cutoff_rank": 1200,
+      "cutoff_percentile": 99.5
+    },
+    "financials": {
+      "annual_fees": 250000,
+      "hostel_fees": 60000,
+      "average_package": 2000000,
+      "placement_rate": 0.95
+    },
+    "accreditation": "NAAC A++",
+    "intake": 120
+  },
+  {
+    "institution_id": "NITB_BTECH_CSE",
+    "college_name": "NIT Bhopal",
+    "type": "Public",
+    "tier": 2,
+    "location": {
+      "state": "MP",
+      "city": "Bhopal"
+    },
+    "program": {
+      "degree": "B.Tech",
+      "branch": "Computer Science",
+      "stream": "PCM"
+    },
+    "admission": {
+      "exam": "JEE Main",
+      "cutoff_rank": 15000,
+      "cutoff_percentile": 95.0
+    },
+    "financials": {
+      "annual_fees": 180000,
+      "hostel_fees": 50000,
+      "average_package": 1200000,
+      "placement_rate": 0.85
+    },
+    "accreditation": "NAAC A",
+    "intake": 150
+  }
+]

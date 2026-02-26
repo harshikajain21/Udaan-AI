@@ -1,0 +1,26 @@
+[
+  {
+    "exam": "JEE Main",
+    "degree": "B.Tech",
+    "competition_level": 0.9,
+    "difficulty": 0.85
+  },
+  {
+    "exam": "JEE Advanced",
+    "degree": "B.Tech",
+    "competition_level": 0.95,
+    "difficulty": 0.9
+  },
+  {
+    "exam": "NEET",
+    "degree": "MBBS",
+    "competition_level": 0.95,
+    "difficulty": 0.9
+  },
+  {
+    "exam": "CUET",
+    "degree": "B.Sc Physics",
+    "competition_level": 0.7,
+    "difficulty": 0.6
+  }
+]
