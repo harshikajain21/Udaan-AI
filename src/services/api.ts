@@ -1,6 +1,6 @@
 import { StudentInput, RecommendationResult, SimulationInput, SimulationResult } from "@/types/recommendation";
 
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = import.meta.env.VITE_API_URL || "https://udaan-ai-6wpu.onrender.com";
 
 export async function getRecommendation(input: StudentInput): Promise<RecommendationResult> {
   const res = await fetch(`${API_BASE}/recommend`, {
